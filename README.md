@@ -31,7 +31,7 @@ Authenticate using multiple methods
 
 ## List of commands
 | Command | Description |
-| ------------------------- | ----------------------------------------------------- |
+| -------------------------------------- | ----------------------------------------------------- |
 | `azcopy bench` | Runs a performance benchmark by uploading or downloading test data to or from a specified location.|
 | `azcopy copy` | Copies source data to a destination location|
 | `azcopy doc` | Generates documentation for the tool in Markdown format.|
