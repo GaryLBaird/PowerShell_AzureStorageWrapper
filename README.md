@@ -1,5 +1,16 @@
-# Getting Started with PowerShell_AzureStorageCLI_Wrappe
-This page will help you get started with PowerShell_AzureStorageCLI_Wrappe. 
+# Getting Started with PowerShell_AzureStorageCLI_Wrapper
+This page will help you get started with PowerShell_AzureStorageCLI_Wrapper. 
+
+# Seeking Help
+Please contact me if you would like to participate in the project.
+
+# OS Support
+| OS Support||
+|------------------ | -------- | -------------------------|
+| Operating System | Date | Description |
+| OSX | TBD | Apple |
+| Windows | Current | Microsoft Windows 2012 - current |
+| Linux   | TBD | Base Linux Distros that include Microsoft PowerShell Core |
 
 ##### Project Link
 https://github.com/users/GaryLBaird/projects/1
