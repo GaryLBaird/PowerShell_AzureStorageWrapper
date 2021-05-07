@@ -5,7 +5,7 @@ This page will help you get started with PowerShell_AzureStorageCLI_Wrapper.
 Please contact me if you would like to participate in the project.
 
 # OS Support
-| OS Support||
+| OS Support|||
 |------------------ | -------- | -------------------------|
 | Operating System | Date | Description |
 | OSX | TBD | Apple |
